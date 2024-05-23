@@ -2,6 +2,14 @@
 
 Check this for more info -> https://github.com/wpcodevo/nextjs14-supabase-ssr-authentication
 
+Setup -> https://codevoweb.com/setup-google-github-oauth-with-supabase-in-nextjs-14/
+
+PNPM Installation -> https://pnpm.io/installation
+
+Supabase Doc Google Auth -> https://supabase.com/docs/guides/auth/social-login/auth-google?queryGroups=platform&platform=web
+
+Google for Developers -> https://developers.google.com/
+
 In this article, you'll learn how to integrate Supabase with Next.js 14 for email and password authentication, as well as Google and GitHub OAuth. The tutorial covers protecting pages to ensure only authenticated users can access them, fetching the user's session in a React Server Component, and automatically refreshing cookies in the background when the user's session expires.
 
 ![Implement Authentication with Supabase in Next.js 14](https://codevoweb.com/wp-content/uploads/2024/02/Implement-Authentication-with-Supabase-in-Next.js-14.webp)
